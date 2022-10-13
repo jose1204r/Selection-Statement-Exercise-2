@@ -7,7 +7,7 @@
             Console.WriteLine("***School Subject***");
 
 
-            Console.WriteLine("What is your faverotite subject ?");
+            Console.WriteLine("What is your favorite subject ?");
             var usersubject = Console.ReadLine();
 
             switch (usersubject)
